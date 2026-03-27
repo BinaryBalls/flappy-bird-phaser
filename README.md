@@ -15,7 +15,7 @@ A Flappy Bird-style game built using Phaser.js.
 - SPACE → Restart after crash
 
 ## 🌐 Play the Game
-[Play Here](https://yourusername.github.io/flappy-bird-phaser)
+[Play Here](https://binaryballs.github.io/flappy-bird-phaser/)
 
 ## 🛠️ Tech Used
 - JavaScript
